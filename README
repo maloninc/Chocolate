@@ -1,6 +1,6 @@
-                     Chocolate
-			        19 Nov 2010
-	   	    	 Hiroyuki Nakamura
+                          Chocolate
+                         19 Nov 2010
+                      Hiroyuki Nakamura
 
 Chocolate is a tiny library for self update in iOS wireless app distribution
 environment. It is useful when you want to distribute test apps or in-house apps
