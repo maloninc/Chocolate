@@ -1,0 +1,12 @@
+                     Chocolate
+			        19 Nov 2010
+	   	    	 Hiroyuki Nakamura
+
+Chocolate is a tiny library for self update in iOS wireless app distribution
+environment. It is useful when you want to distribute test apps or in-house apps
+in enterprise developement for iPhone and iPad.
+
+Chocolate doesn't need any application server. All you need is a web server
+and then you just put a manifest file and .ipa file on the web server.
+
+This package is licensed under BSD License.
