@@ -9,4 +9,7 @@ in enterprise developement for iPhone and iPad.
 Chocolate doesn't need any application server. All you need is a web server
 and then you just put a manifest file and .ipa file on the web server.
 
+Wireless Enterprise App Distribution (Apple Developer Site)
+http://developer.apple.com/library/ios/#featuredarticles/FA_Wireless_Enterprise_App_Distribution/Introduction/Introduction.html
+
 This package is licensed under BSD License.
